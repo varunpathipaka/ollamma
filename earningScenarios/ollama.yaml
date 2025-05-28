@@ -24,7 +24,7 @@ spec:
     spec: |
       predictor:
         imagePullSecrets:
-        - name: Default
+        - name: dckr_pat_AHQe0wOoLP1RUuEPX9DzW-0GuVQ
         minReplicas: 1
         maxReplicas: 1
         containers:
